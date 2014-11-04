@@ -1,0 +1,25 @@
+.root {
+    -fx-background-image: url("Dark-Blue-Background-690x431.jpg");
+}
+
+#label {
+    -fx-fill: #DCDCDC;
+    -fx-font-family: "Arial Black";
+    -fx-font-weight: bold;
+}
+
+#welcome-text {
+    -fx-font-size: 32px;
+    -fx-font-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-fill: #DCDCDC;
+    -fx-effect: dropshadow(three-pass-box, rgba(255,255,255,0.5), 0,0,0,1);
+}
+
+#Secondary {
+    -fx-font-size: 16px;
+    -fx-font-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-fill: #DCDCDC;
+    -fx-effect: dropshadow(three-pass-box, rgba(255,255,255,0.5), 0,0,0,1);
+}
